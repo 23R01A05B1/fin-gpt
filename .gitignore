@@ -2,8 +2,7 @@
 __pycache__/
 .env
 *.ckpt
-*.ptmodels/ 
-training/ 
+ptmodels/ 
 *.safetensors 
 *.pt 
 *.bin 
